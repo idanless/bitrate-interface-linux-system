@@ -16,3 +16,4 @@
 
 
 	done
+ #sed 's/\r//' bitrate.sh > bitrate_fixed.sh
